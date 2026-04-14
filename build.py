@@ -1,4 +1,3 @@
-FILES["build.py"] = '''\
 import os
 import sys
 import shutil
